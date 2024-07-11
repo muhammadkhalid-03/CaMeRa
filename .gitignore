@@ -1,0 +1,7 @@
+# Ignore virtual environment folder
+venv/
+
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
